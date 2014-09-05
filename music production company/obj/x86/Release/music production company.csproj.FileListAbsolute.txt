@@ -1,0 +1,15 @@
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\bin\Release\music production company.exe.config
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\bin\Release\music production company.exe
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\bin\Release\music production company.pdb
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\obj\x86\Release\music production company.csprojResolveAssemblyReference.cache
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\obj\x86\Release\WindowsFormsApplication1.albums.resources
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\obj\x86\Release\WindowsFormsApplication1.form_insert.resources
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\obj\x86\Release\WindowsFormsApplication1.count.resources
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\obj\x86\Release\WindowsFormsApplication1.search.resources
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\obj\x86\Release\WindowsFormsApplication1.delete.resources
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\obj\x86\Release\WindowsFormsApplication1.update.resources
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\obj\x86\Release\music production company.csproj.GenerateResource.Cache
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\obj\x86\Release\music production company.exe
+C:\Users\Hoda\Documents\Visual Studio 2010\Projects\music production company\music production company\obj\x86\Release\music production company.pdb
